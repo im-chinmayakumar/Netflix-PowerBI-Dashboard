@@ -22,4 +22,4 @@ This Power BI dashboard analyzes Netflix content trends from 2020 onwards. It in
 
 ---
 👨‍💻 **Author:** https://www.linkedin.com/in/imchinmayakumar/ 
-🔗 **GitHub Repo:** [Netflix Dashboard](https://github.com/yourusername/Netflix-PowerBI-Dashboard)  
+🔗 **GitHub Repo:** [Netflix Dashboard](github.com/im-chinmayakumar/Netflix-PowerBI-Dashboard/tree/main)  
